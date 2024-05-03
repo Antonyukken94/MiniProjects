@@ -1,0 +1,2 @@
+# MiniProjects
+Mini JavaScripts projects
